@@ -4,12 +4,6 @@
     padding: 0;
 }
 
-body {
-  display:flex;
-  justify-content: center;
-  align-items:center;
-}
-
 .container {
     width: 1440px;
     display: block;
