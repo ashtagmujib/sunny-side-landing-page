@@ -9,6 +9,7 @@ body {
     display:flex;
 } 
 .container {
+    margin:auto;
     width: 1440px;
     display: block;
     position: relative;
